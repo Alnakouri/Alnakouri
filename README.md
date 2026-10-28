@@ -1,6 +1,6 @@
 # Bonjour, je suis Ahmed 👋
 
-Je cherche une **alternance en développement web**.
+Je suis candidat à la formation **Développeur web et web mobile** et je cherche une **alternance dans la région lyonnaise**.
 
 J'apprends en construisant des projets complets, testés et documentés. En voici deux.
 
