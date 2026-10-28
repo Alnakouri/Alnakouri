@@ -30,3 +30,7 @@ Plateforme d'apprentissage **100 % hors ligne** (Electron + PWA) pour la formati
 ### 🧰 Outils
 
 HTML · CSS · JavaScript · Electron · PWA · Python · discord.py · Docker · Git · GitHub Actions · pytest
+
+### 📫 Contact
+
+[Ahmed-al-nakouri@outlook.com](mailto:Ahmed-al-nakouri@outlook.com)
