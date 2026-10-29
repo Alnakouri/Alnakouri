@@ -4,6 +4,8 @@ Je suis candidat à la formation **Développeur web et web mobile** et je cherch
 
 J'apprends en construisant des projets complets, testés et documentés. En voici deux.
 
+Je développe avec des assistants IA : je décide ce que fait chaque projet, j'en fais écrire une partie par l'IA, puis je vérifie, avec des tests automatiques et une CI à chaque envoi, et à la main avant de valider.
+
 ---
 
 ### 📚 [L'Almanach du CIP](https://github.com/Alnakouri/L-Almanach-du-CIP) · [▶ démo en ligne](https://alnakouri.github.io/L-Almanach-du-CIP/)
