@@ -18,7 +18,7 @@ Plateforme d'apprentissage **100 % hors ligne** (Electron + PWA) pour la formati
 - Synthèse vocale avec surlignage synchronisé du texte (3 moteurs)
 - Intégration continue GitHub Actions : syntaxe, ressources du Service Worker, cohérence des versions, intégrité des données
 
-### 🤖 [Écosystème de bots Discord](https://github.com/Alnakouri/Bot-Discord)
+### 🤖 [Écosystème de bots Discord](https://github.com/Alnakouri/Bot-Discord) · [▶ parler à Alfred](https://alfred-demo.alnakouri.workers.dev)
 
 **6 bots** à personnalités (The Elder Scrolls, Batman, Cyberpunk 2077) qui partagent un noyau commun.
 
@@ -26,6 +26,7 @@ Plateforme d'apprentissage **100 % hors ligne** (Electron + PWA) pour la formati
 - IA générative avec bascule automatique entre fournisseurs (Gemini, Groq, Mistral, NVIDIA)
 - Tests pytest et intégration continue : détection des appels bloquants dans la boucle asyncio, cohérence du noyau partagé
 - Clés API chiffrées, aucun secret dans le dépôt (vérifié avec gitleaks)
+- Démo web sans Discord (Cloudflare Worker) : un des bots en conversation, et le dashboard de pilotage sur des données fictives
 
 ---
 
