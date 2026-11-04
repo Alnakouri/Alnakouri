@@ -2,9 +2,9 @@
 
 Je suis candidat à la formation **Développeur web et web mobile** et je cherche une **alternance dans la région lyonnaise**.
 
-J'apprends en construisant des projets complets, testés et documentés. En voici deux.
+J'apprends en menant des projets complets avec des assistants IA. En voici deux.
 
-Je développe avec des assistants IA : je décide ce que fait chaque projet, j'en fais écrire une partie par l'IA, puis je vérifie, avec des tests automatiques et une CI à chaque envoi, et à la main avant de valider.
+Je n'écris pas le code moi-même : il est entièrement écrit par l'IA (Claude Code, Google Antigravity). Les idées viennent de moi : je décide ce que fait chaque projet et comment il doit se comporter, puis je l'essaie avant de valider. Des tests automatiques et une CI vérifient chaque envoi. La formation, c'est pour apprendre à écrire ce code moi-même.
 
 ---
 
